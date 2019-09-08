@@ -1,110 +1,110 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,rating,frequency,ridership,completion_time,ontime_rate,bunching
-2452_90,2453,21,The Entrance North to Gosford via Bateau Bay East,Central Coast Buses Network,700,00B5EF,FFFFFF,5,7,16904,48,67,6
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,rating ,frequency ,ridership ,completion_time ,ontime_rate ,bunching
+2450_279,2452,54,WoyWoy to Pearl Beach & Patonga via Umina Beach (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,4,48496,41,84,2
 2444_902X,2444,902X,Sandy Point to Holsworthy via Voyager Point,Sydney Buses Network,700,00B5EF,FFFFFF,5,8,47948,34,94,2
 2452_34,2452,63,Gosford to Saratoga & Davistown via Green Pt & Erina Fair (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,5,7,47767,50,75,9
-2452_65,2452,95X,Lake Haven to Wyee via Gwandalan,Central Coast Buses Network,700,00B5EF,FFFFFF,5,7,12044,59,64,12
-2452_53,2452,78,"Lake Haven to Tuggerah via Sparks Rd, Warnervale & Wadalba",Central Coast Buses Network,700,00B5EF,FFFFFF,5,7,14771,47,72,6
-2452_95X,2453,28,The Entrance to Gosford via Springfield,Central Coast Buses Network,700,00B5EF,FFFFFF,5,8,18277,78,50,17
-2453_48,2450,281,Lake Haven to Wangi Wangi,Hunter Buses Network,700,00B5EF,FFFFFF,5,8,22786,75,58,20
-2452_78,2453,16,The Entrance to Wyong,Central Coast Buses Network,700,00B5EF,FFFFFF,5,8,33684,48,65,11
-2452_36,2452,65,Wagstaffe to Gosford via Macmasters Beach & Kincumber,Central Coast Buses Network,700,00B5EF,FFFFFF,5,6,19547,52,72,5
-2444_NW2,2444,NW2,Tallawong to Chatswood (Limited Stops),Sydney Buses Network,700,00B5EF,FFFFFF,5,6,40833,31,83,5
-2444_903,2444,903,Liverpool to Chipping Norton (Loop Service),Sydney Buses Network,700,00B5EF,FFFFFF,5,6,29873,30,96,2
-2450_271,2452,38,Gosford to Wyoming (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,5,6,36454,31,87,4
-2453_23,2450,262,Cameron Park to Charlestown via Constitution Dr,Hunter Buses Network,700,00B5EF,FFFFFF,5,7,45409,77,53,17
-2450_274,2452,50/3,Woy Woy to Umina & Booker Bay (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,5,6,22330,38,85,3
-2452_58,2452,92,Lake Haven to Budgewoi & Toukley (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,5,7,31649,59,65,8
-2453_25,2450,266,Newcastle to West Wallsend,Hunter Buses Network,700,00B5EF,FFFFFF,5,7,43788,71,56,19
-2452_94,2453,25,The Entrance to Wyong,Central Coast Buses Network,700,00B5EF,FFFFFF,5,8,29469,56,65,13
-2444_NW1,2444,NW1,Tallawong to Chatswood ,Sydney Buses Network,700,00B5EF,FFFFFF,5,6,16560,40,82,4
-2450_281,2452,55,Ettalong Beach to Gosford via Woy Woy and Umina Beach,Central Coast Buses Network,700,00B5EF,FFFFFF,5,6,46501,50,79,15
-2452_32,2452,55/3,Woy Woy to Ettalong & Umina Beach (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,7,28201,50,79,14
-2453_16,2453,43,Springfield to Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,4,6,23600,77,59,21
-2450_266,2452,34,Gosford to Kariong (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,15374,43,88,2
-2444_M90,2444,M90,Burwood to Liverpool,Sydney Buses Network,700,00B5EF,FFFFFF,4,6,14349,42,94,3
-2444_900,2444,900,Parramatta Free Shuttle,Sydney Buses Network,700,00B5EF,FFFFFF,4,7,24957,36,90,1
-2452_82,2453,20,Gosford to Matcham via Erina Fair (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,6,25065,49,66,15
-2453_20,2453,48,Bay Village to Tumbi Umbi (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,19641,75,55,25
-2444_904,2444,904,Fairfield to Liverpool,Sydney Buses Network,700,00B5EF,FFFFFF,4,8,35903,37,96,4
-2450_278,2452,5364,Woy Woy to Kincumber via Ettalong & Empire Bay,Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,30568,33,88,2
-2453_19,2453,47,Ourimbah to Tuggerah,Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,16437,66,51,23
-2452_98,2453,40,North Gosford to Gosford (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,6,22601,80,55,19
-2444_907,2444,907,Bankstown to Parramatta via Bass Hill,Sydney Buses Network,700,00B5EF,FFFFFF,4,8,29821,33,96,2
-2450_261,2452,32/4,Mangrove Mountain to Gosford via Kariong,Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,32162,33,88,5
-2452_96,2453,29,Bay Village to Wyong Hospital via Lake Haven,Central Coast Buses Network,700,00B5EF,FFFFFF,4,6,42088,75,59,21
-2452_37,2452,66A,Gosford to Avoca Beach & Copacabana via Kincumber & Green Pt (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,7,14978,55,74,13
-2452_33/4,2452,59,"Wagstaffe to Woy Woy via Empire Bay, Booker Bay & Ettalong",Central Coast Buses Network,700,00B5EF,FFFFFF,4,6,22411,56,76,5
-2452_50/3,2452,70,"Ettalong Beach to Gosford via Pt Clare, Tascott & Woy Woy",Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,15134,58,75,5
-2444_914,2444,914,Greenacre to Strathfield,Sydney Buses Network,700,00B5EF,FFFFFF,4,6,29328,33,98,5
-2450_273,2452,50,WoyWoy to Umina via Ocean Beach Rd (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,7,18386,43,83,2
-2450_267,2452,34/2,Gosford to Mangrove Mountain via Kariong,Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,46356,35,82,5
-2453_17,2453,44,Erina Fair to Gosford via Springfield,Central Coast Buses Network,700,00B5EF,FFFFFF,3,4,47020,67,53,23
-2444_905,2444,905,Bankstown to Fairfield,Sydney Buses Network,700,00B5EF,FFFFFF,3,4,15407,37,93,5
-2444_N40,2444,N40,East Hills to City Town Hall,Sydney Buses Network,700,00B5EF,FFFFFF,3,5,15719,31,82,3
-2452_50,2452,68,Gosford to Wamberal via Terrigal (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,3,6,41952,59,78,5
-2452_97,2453,30,South Tacoma to Wyong (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,3,6,29148,80,54,25
-2452_95,2453,26,The Entrance to Wyong,Central Coast Buses Network,700,00B5EF,FFFFFF,3,4,21672,76,54,23
-2444_S1,2444,S1,Cabramatta to Lansvale (Loop Service),Sydney Buses Network,700,00B5EF,FFFFFF,3,6,12048,45,81,2
-2450_260,2452,32,Spencer to Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,3,4,25527,45,81,3
-2453_26,2450,267,Glendale to West Wallsend,Hunter Buses Network,700,00B5EF,FFFFFF,3,4,14249,68,59,23
-2452_34/2,2452,64,Woy Woy to Gosford via Empire Bay & Kincumber,Central Coast Buses Network,700,00B5EF,FFFFFF,3,4,20667,59,78,13
-2453_47,2450,280,Cooranbong to Morisset,Hunter Buses Network,700,00B5EF,FFFFFF,3,4,37319,67,57,22
-2453_29,2450,269,Charlestown to Toronto,Hunter Buses Network,700,00B5EF,FFFFFF,3,5,37055,64,59,17
-2453_40,2450,271,Toronto to Glendale,Hunter Buses Network,700,00B5EF,FFFFFF,3,4,23700,78,59,22
-2444_N30,2444,N30,Macarthur to City Town Hall,Sydney Buses Network,700,00B5EF,FFFFFF,3,5,22141,31,82,2
-2452_79,2453,17,The Entrance North to Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,3,5,12535,47,67,7
-2452_33,2452,58,Woy Woy to Woy Woy Bay & Phegans Bay (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,3,5,46188,50,72,15
-2450_275,2452,53,Woy Woy to Booker Bay (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,3,5,39646,40,84,3
-2444_925,2444,925,East Hills to Lidcombe via Bankstown,Sydney Buses Network,700,00B5EF,FFFFFF,3,6,30413,38,92,2
-2453_28,2450,268,Killingworth to Glendale,Hunter Buses Network,700,00B5EF,FFFFFF,3,6,34307,72,55,23
-2450_268,2452,36,Gosford to Westfield Tuggerah via Niagara Park,Central Coast Buses Network,700,00B5EF,FFFFFF,3,5,39231,34,84,5
 2444_909,2444,909,Bankstown to Parramatta via Birrong & Auburn,Sydney Buses Network,700,00B5EF,FFFFFF,2,5,47555,36,91,4
-2452_54/0,2452,81,"Lake Haven to Tuggerah via Kanwal, Wyongah & Wadalba",Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,15227,55,79,14
-2450_263,2452,33/4,Gosford to Somersby industrial Estate and Kariong (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,2,6,47084,39,85,2
-2452_93,2453,24,The Entrance to Wyong,Central Coast Buses Network,700,00B5EF,FFFFFF,2,4,43499,48,61,5
-2444_915,2444,915,Lidcombe to U Sydney Lidcombe Cmps (Loop Service),Sydney Buses Network,700,00B5EF,FFFFFF,2,5,37780,38,95,1
-2453_18,2453,45,Mingara to Bay Village via Bateau Bay West,Central Coast Buses Network,700,00B5EF,FFFFFF,2,6,12323,69,58,20
-2453_44,2450,278,Morisset to Silverwater (Loop Service),Hunter Buses Network,700,00B5EF,FFFFFF,2,6,41722,72,57,24
-2450_269,2452,37,Tuggerah to Gosford via Lisarow,Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,39639,34,87,1
 2453_15,2453,42,Point Frederick to Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,47204,71,51,17
-2452_92,2453,23,The Entrance to Gosford via Bateau Bay West,Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,37994,51,62,5
-2444_906,2444,906,Fairfield to Parramatta,Sydney Buses Network,700,00B5EF,FFFFFF,2,4,34823,31,94,3
-2452_99,2453,41,West Gosford to Gosford (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,13539,78,51,19
-2453_42,2450,274,Toronto to Coal Point (Loop Service),Hunter Buses Network,700,00B5EF,FFFFFF,2,5,29064,68,51,24
-2452_55,2452,82,"Lake Haven to Tuggerah via Wyongah, Tuggerawong & Tacoma",Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,42458,49,79,7
-2452_70,2453,15,Bay Village to Tuggerah,Central Coast Buses Network,700,00B5EF,FFFFFF,2,6,39423,59,67,8
-2450_262,2452,33,Somersby to Gosford via Industrial Estate & West Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,2,4,17694,35,89,4
-2444_911,2444,911,Auburn to Bankstown via Georges Hall,Sydney Buses Network,700,00B5EF,FFFFFF,2,6,11941,32,98,1
+2450_263,2452,33/4,Gosford to Somersby industrial Estate and Kariong (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,2,6,47084,39,85,2
+2453_17,2453,44,Erina Fair to Gosford via Springfield,Central Coast Buses Network,700,00B5EF,FFFFFF,3,4,47020,67,53,23
+2450_281,2452,55,Ettalong Beach to Gosford via Woy Woy and Umina Beach,Central Coast Buses Network,700,00B5EF,FFFFFF,5,6,46501,50,79,15
+2450_267,2452,34/2,Gosford to Mangrove Mountain via Kariong,Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,46356,35,82,5
+2452_33,2452,58,Woy Woy to Woy Woy Bay & Phegans Bay (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,3,5,46188,50,72,15
+2453_23,2450,262,Cameron Park to Charlestown via Constitution Dr,Hunter Buses Network,700,00B5EF,FFFFFF,5,7,45409,77,53,17
+2453_25,2450,266,Newcastle to West Wallsend,Hunter Buses Network,700,00B5EF,FFFFFF,5,7,43788,71,56,19
+2452_93,2453,24,The Entrance to Wyong,Central Coast Buses Network,700,00B5EF,FFFFFF,2,4,43499,48,61,5
+2452_67,2452,98,Lake Haven to Chain Valley Bay via Blue Haven (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,43220,47,67,12
 2452_38,2452,67,Gosford to North Avoca via Terrigal (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,2,4,42791,48,74,5
-2452_37/8,2452,66C,Gosford to Copacabana & Avoca Beach via Kincumber & Green Pt (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,2,4,32804,55,74,13
-2452_64,2452,95,Lake Haven to Morisset via Gwandalan & Mannering Park,Central Coast Buses Network,700,00B5EF,FFFFFF,2,4,30687,46,65,14
-2453_41,2450,273,Fassifern to Toronto,Hunter Buses Network,700,00B5EF,FFFFFF,2,4,15373,67,59,22
-2452_68,2452,99,"Lake Haven to Charlestown via Blue Haven, Gwandalan & Swansea",Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,24189,53,67,7
-2453_45,2450,279,Morisset to Sunshine (Loop Service),Hunter Buses Network,700,00B5EF,FFFFFF,1,3,12672,76,50,18
-2452_55/3,2452,90,Lake Haven to Toukley & Budgewoi (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,5,20089,52,75,8
-2452_81,2453,19,Wyong to Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,1,4,24041,46,66,11
-2452_66C,2452,97,Lake Haven to Wyee and Mannering Park (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,2,18738,54,66,11
-2452_54,2452,80,Lake Haven to Tuggerah via Lake Haven Dr & Pacific Hwy,Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,34036,52,72,5
-2453_24,2450,263,Charlestown to Cameron Park,Hunter Buses Network,700,00B5EF,FFFFFF,1,3,32641,76,54,21
-2444_908,2444,908,Merrylands to Bankstown via Birrong & Auburn,Sydney Buses Network,700,00B5EF,FFFFFF,1,4,15947,38,96,3
-2453_22,2450,261,University of Newcastle to Fletcher via Wallsend & Maryland,Hunter Buses Network,700,00B5EF,FFFFFF,1,4,22653,64,53,25
-2453_21,2450,260,"Minmi to University of Newcastle via Fletcher, Maryland & Wallsend",Hunter Buses Network,700,00B5EF,FFFFFF,1,4,31687,76,55,21
-2452_66A,2452,96,Budgewoi to Wyee via Blue Haven,Central Coast Buses Network,700,00B5EF,FFFFFF,1,5,18603,57,64,14
-2452_32/4,2452,57,Umina Beach West to Woy Woy via Umina Beach & Woy Woy South,Central Coast Buses Network,700,00B5EF,FFFFFF,1,2,17827,52,78,10
+2452_55,2452,82,"Lake Haven to Tuggerah via Wyongah, Tuggerawong & Tacoma",Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,42458,49,79,7
+2452_96,2453,29,Bay Village to Wyong Hospital via Lake Haven,Central Coast Buses Network,700,00B5EF,FFFFFF,4,6,42088,75,59,21
+2452_50,2452,68,Gosford to Wamberal via Terrigal (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,3,6,41952,59,78,5
+2453_44,2450,278,Morisset to Silverwater (Loop Service),Hunter Buses Network,700,00B5EF,FFFFFF,2,6,41722,72,57,24
 2450_270,2452,37/8,Ourimbah to Gosford via Wyoming,Central Coast Buses Network,700,00B5EF,FFFFFF,1,2,41641,40,87,4
 2452_80,2453,18,The Entrance to Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,1,5,41025,49,61,12
-2452_91,2453,22,The Entrance to Gosford via Killarney Vale,Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,15127,56,61,14
+2444_NW2,2444,NW2,Tallawong to Chatswood (Limited Stops),Sydney Buses Network,700,00B5EF,FFFFFF,5,6,40833,31,83,5
 2453_43,2450,275,Toronto to Wangi via Fishing Point & Rathmines,Hunter Buses Network,700,00B5EF,FFFFFF,1,5,40773,68,51,17
-2452_63,2452,94,Budgewoi to Tuggerah via San Remo & Wyong,Central Coast Buses Network,700,00B5EF,FFFFFF,1,4,15336,53,64,12
-2444_916,2444,916,Chester Hill to Guildford,Sydney Buses Network,700,00B5EF,FFFFFF,1,4,25359,41,93,4
-2444_913,2444,913,Bankstown to Strathfield,Sydney Buses Network,700,00B5EF,FFFFFF,1,2,29655,40,97,2
-2452_5364,2452,79,"Lake Haven to Tuggerah via Woongarrah, Hamlyn Terrace & Wattanobi",Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,27788,46,76,12
-2450_279,2452,54,WoyWoy to Pearl Beach & Patonga via Umina Beach (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,4,48496,41,84,2
-2444_M91,2444,M91,Hurstville to Parramatta via Padstow & Chester Hill,Sydney Buses Network,700,00B5EF,FFFFFF,1,4,28170,34,93,3
-2450_280,2452,54/0,Umina Beach to Woy Woy via Pearl Beach,Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,37794,57,73,6
-2452_59,2452,93,Noraville to Tuggerah via Wyong & Toukley,Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,34262,47,68,10
-2452_67,2452,98,Lake Haven to Chain Valley Bay via Blue Haven (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,43220,47,67,12
-2452_57,2452,91,Lake Haven to Norah Head via Toukley & Noraville (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,32047,55,61,6
+2450_275,2452,53,Woy Woy to Booker Bay (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,3,5,39646,40,84,3
+2450_269,2452,37,Tuggerah to Gosford via Lisarow,Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,39639,34,87,1
+2452_70,2453,15,Bay Village to Tuggerah,Central Coast Buses Network,700,00B5EF,FFFFFF,2,6,39423,59,67,8
+2450_268,2452,36,Gosford to Westfield Tuggerah via Niagara Park,Central Coast Buses Network,700,00B5EF,FFFFFF,3,5,39231,34,84,5
 2444_902,2444,902,Holsworthy to Liverpool via Moorebank,Sydney Buses Network,700,00B5EF,FFFFFF,1,3,38609,38,95,1
+2452_92,2453,23,The Entrance to Gosford via Bateau Bay West,Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,37994,51,62,5
+2450_280,2452,54/0,Umina Beach to Woy Woy via Pearl Beach,Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,37794,57,73,6
+2444_915,2444,915,Lidcombe to U Sydney Lidcombe Cmps (Loop Service),Sydney Buses Network,700,00B5EF,FFFFFF,2,5,37780,38,95,1
+2453_47,2450,280,Cooranbong to Morisset,Hunter Buses Network,700,00B5EF,FFFFFF,3,4,37319,67,57,22
+2453_29,2450,269,Charlestown to Toronto,Hunter Buses Network,700,00B5EF,FFFFFF,3,5,37055,64,59,17
+2450_271,2452,38,Gosford to Wyoming (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,5,6,36454,31,87,4
+2444_904,2444,904,Fairfield to Liverpool,Sydney Buses Network,700,00B5EF,FFFFFF,4,8,35903,37,96,4
+2444_906,2444,906,Fairfield to Parramatta,Sydney Buses Network,700,00B5EF,FFFFFF,2,4,34823,31,94,3
+2453_28,2450,268,Killingworth to Glendale,Hunter Buses Network,700,00B5EF,FFFFFF,3,6,34307,72,55,23
+2452_59,2452,93,Noraville to Tuggerah via Wyong & Toukley,Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,34262,47,68,10
+2452_54,2452,80,Lake Haven to Tuggerah via Lake Haven Dr & Pacific Hwy,Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,34036,52,72,5
+2452_78,2453,16,The Entrance to Wyong,Central Coast Buses Network,700,00B5EF,FFFFFF,5,8,33684,48,65,11
+2452_37/8,2452,66C,Gosford to Copacabana & Avoca Beach via Kincumber & Green Pt (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,2,4,32804,55,74,13
+2453_24,2450,263,Charlestown to Cameron Park,Hunter Buses Network,700,00B5EF,FFFFFF,1,3,32641,76,54,21
+2450_261,2452,32/4,Mangrove Mountain to Gosford via Kariong,Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,32162,33,88,5
+2452_57,2452,91,Lake Haven to Norah Head via Toukley & Noraville (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,32047,55,61,6
+2453_21,2450,260,"Minmi to University of Newcastle via Fletcher, Maryland & Wallsend",Hunter Buses Network,700,00B5EF,FFFFFF,1,4,31687,76,55,21
+2452_58,2452,92,Lake Haven to Budgewoi & Toukley (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,5,7,31649,59,65,8
+2452_64,2452,95,Lake Haven to Morisset via Gwandalan & Mannering Park,Central Coast Buses Network,700,00B5EF,FFFFFF,2,4,30687,46,65,14
+2450_278,2452,5364,Woy Woy to Kincumber via Ettalong & Empire Bay,Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,30568,33,88,2
+2444_925,2444,925,East Hills to Lidcombe via Bankstown,Sydney Buses Network,700,00B5EF,FFFFFF,3,6,30413,38,92,2
+2444_903,2444,903,Liverpool to Chipping Norton (Loop Service),Sydney Buses Network,700,00B5EF,FFFFFF,5,6,29873,30,96,2
+2444_907,2444,907,Bankstown to Parramatta via Bass Hill,Sydney Buses Network,700,00B5EF,FFFFFF,4,8,29821,33,96,2
+2444_913,2444,913,Bankstown to Strathfield,Sydney Buses Network,700,00B5EF,FFFFFF,1,2,29655,40,97,2
+2452_94,2453,25,The Entrance to Wyong,Central Coast Buses Network,700,00B5EF,FFFFFF,5,8,29469,56,65,13
+2444_914,2444,914,Greenacre to Strathfield,Sydney Buses Network,700,00B5EF,FFFFFF,4,6,29328,33,98,5
+2452_97,2453,30,South Tacoma to Wyong (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,3,6,29148,80,54,25
+2453_42,2450,274,Toronto to Coal Point (Loop Service),Hunter Buses Network,700,00B5EF,FFFFFF,2,5,29064,68,51,24
+2452_32,2452,55/3,Woy Woy to Ettalong & Umina Beach (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,7,28201,50,79,14
+2444_M91,2444,M91,Hurstville to Parramatta via Padstow & Chester Hill,Sydney Buses Network,700,00B5EF,FFFFFF,1,4,28170,34,93,3
+2452_5364,2452,79,"Lake Haven to Tuggerah via Woongarrah, Hamlyn Terrace & Wattanobi",Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,27788,46,76,12
 2444_901,2444,901,Holsworthy to Liverpool via Wattle Grove,Sydney Buses Network,700,00B5EF,FFFFFF,1,4,27755,31,91,1
+2450_260,2452,32,Spencer to Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,3,4,25527,45,81,3
+2444_916,2444,916,Chester Hill to Guildford,Sydney Buses Network,700,00B5EF,FFFFFF,1,4,25359,41,93,4
+2452_82,2453,20,Gosford to Matcham via Erina Fair (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,6,25065,49,66,15
+2444_900,2444,900,Parramatta Free Shuttle,Sydney Buses Network,700,00B5EF,FFFFFF,4,7,24957,36,90,1
+2452_68,2452,99,"Lake Haven to Charlestown via Blue Haven, Gwandalan & Swansea",Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,24189,53,67,7
+2452_81,2453,19,Wyong to Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,1,4,24041,46,66,11
+2453_40,2450,271,Toronto to Glendale,Hunter Buses Network,700,00B5EF,FFFFFF,3,4,23700,78,59,22
+2453_16,2453,43,Springfield to Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,4,6,23600,77,59,21
+2453_48,2450,281,Lake Haven to Wangi Wangi,Hunter Buses Network,700,00B5EF,FFFFFF,5,8,22786,75,58,20
+2453_22,2450,261,University of Newcastle to Fletcher via Wallsend & Maryland,Hunter Buses Network,700,00B5EF,FFFFFF,1,4,22653,64,53,25
+2452_98,2453,40,North Gosford to Gosford (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,6,22601,80,55,19
+2452_33/4,2452,59,"Wagstaffe to Woy Woy via Empire Bay, Booker Bay & Ettalong",Central Coast Buses Network,700,00B5EF,FFFFFF,4,6,22411,56,76,5
+2450_274,2452,50/3,Woy Woy to Umina & Booker Bay (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,5,6,22330,38,85,3
+2444_N30,2444,N30,Macarthur to City Town Hall,Sydney Buses Network,700,00B5EF,FFFFFF,3,5,22141,31,82,2
+2452_95,2453,26,The Entrance to Wyong,Central Coast Buses Network,700,00B5EF,FFFFFF,3,4,21672,76,54,23
+2452_34/2,2452,64,Woy Woy to Gosford via Empire Bay & Kincumber,Central Coast Buses Network,700,00B5EF,FFFFFF,3,4,20667,59,78,13
+2452_55/3,2452,90,Lake Haven to Toukley & Budgewoi (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,5,20089,52,75,8
+2453_20,2453,48,Bay Village to Tumbi Umbi (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,19641,75,55,25
+2452_36,2452,65,Wagstaffe to Gosford via Macmasters Beach & Kincumber,Central Coast Buses Network,700,00B5EF,FFFFFF,5,6,19547,52,72,5
+2452_66C,2452,97,Lake Haven to Wyee and Mannering Park (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,2,18738,54,66,11
+2452_66A,2452,96,Budgewoi to Wyee via Blue Haven,Central Coast Buses Network,700,00B5EF,FFFFFF,1,5,18603,57,64,14
+2450_273,2452,50,WoyWoy to Umina via Ocean Beach Rd (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,7,18386,43,83,2
+2452_95X,2453,28,The Entrance to Gosford via Springfield,Central Coast Buses Network,700,00B5EF,FFFFFF,5,8,18277,78,50,17
+2452_32/4,2452,57,Umina Beach West to Woy Woy via Umina Beach & Woy Woy South,Central Coast Buses Network,700,00B5EF,FFFFFF,1,2,17827,52,78,10
+2450_262,2452,33,Somersby to Gosford via Industrial Estate & West Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,2,4,17694,35,89,4
+2452_90,2453,21,The Entrance North to Gosford via Bateau Bay East,Central Coast Buses Network,700,00B5EF,FFFFFF,5,7,16904,48,67,6
+2444_NW1,2444,NW1,Tallawong to Chatswood ,Sydney Buses Network,700,00B5EF,FFFFFF,5,6,16560,40,82,4
+2453_19,2453,47,Ourimbah to Tuggerah,Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,16437,66,51,23
+2444_908,2444,908,Merrylands to Bankstown via Birrong & Auburn,Sydney Buses Network,700,00B5EF,FFFFFF,1,4,15947,38,96,3
+2444_N40,2444,N40,East Hills to City Town Hall,Sydney Buses Network,700,00B5EF,FFFFFF,3,5,15719,31,82,3
+2444_905,2444,905,Bankstown to Fairfield,Sydney Buses Network,700,00B5EF,FFFFFF,3,4,15407,37,93,5
+2450_266,2452,34,Gosford to Kariong (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,15374,43,88,2
+2453_41,2450,273,Fassifern to Toronto,Hunter Buses Network,700,00B5EF,FFFFFF,2,4,15373,67,59,22
+2452_63,2452,94,Budgewoi to Tuggerah via San Remo & Wyong,Central Coast Buses Network,700,00B5EF,FFFFFF,1,4,15336,53,64,12
+2452_54/0,2452,81,"Lake Haven to Tuggerah via Kanwal, Wyongah & Wadalba",Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,15227,55,79,14
+2452_50/3,2452,70,"Ettalong Beach to Gosford via Pt Clare, Tascott & Woy Woy",Central Coast Buses Network,700,00B5EF,FFFFFF,4,8,15134,58,75,5
+2452_91,2453,22,The Entrance to Gosford via Killarney Vale,Central Coast Buses Network,700,00B5EF,FFFFFF,1,3,15127,56,61,14
+2452_37,2452,66A,Gosford to Avoca Beach & Copacabana via Kincumber & Green Pt (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,4,7,14978,55,74,13
+2452_53,2452,78,"Lake Haven to Tuggerah via Sparks Rd, Warnervale & Wadalba",Central Coast Buses Network,700,00B5EF,FFFFFF,5,7,14771,47,72,6
+2444_M90,2444,M90,Burwood to Liverpool,Sydney Buses Network,700,00B5EF,FFFFFF,4,6,14349,42,94,3
+2453_26,2450,267,Glendale to West Wallsend,Hunter Buses Network,700,00B5EF,FFFFFF,3,4,14249,68,59,23
+2452_99,2453,41,West Gosford to Gosford (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,2,5,13539,78,51,19
 2453_30,2450,270,University of Newcastle to Toronto West,Hunter Buses Network,700,00B5EF,FFFFFF,1,3,13375,69,53,16
+2453_45,2450,279,Morisset to Sunshine (Loop Service),Hunter Buses Network,700,00B5EF,FFFFFF,1,3,12672,76,50,18
+2452_79,2453,17,The Entrance North to Gosford,Central Coast Buses Network,700,00B5EF,FFFFFF,3,5,12535,47,67,7
+2453_18,2453,45,Mingara to Bay Village via Bateau Bay West,Central Coast Buses Network,700,00B5EF,FFFFFF,2,6,12323,69,58,20
+2444_S1,2444,S1,Cabramatta to Lansvale (Loop Service),Sydney Buses Network,700,00B5EF,FFFFFF,3,6,12048,45,81,2
+2452_65,2452,95X,Lake Haven to Wyee via Gwandalan,Central Coast Buses Network,700,00B5EF,FFFFFF,5,7,12044,59,64,12
+2444_911,2444,911,Auburn to Bankstown via Georges Hall,Sydney Buses Network,700,00B5EF,FFFFFF,2,6,11941,32,98,1
