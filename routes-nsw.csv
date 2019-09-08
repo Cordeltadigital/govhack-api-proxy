@@ -1,4 +1,4 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,rating ,frequency ,ridership ,completion_time ,ontime_rate ,bunching
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,rating,frequency,ridership,completion_time,ontime_rate,bunching
 2444_900,2444,900,Parramatta Free Shuttle,Sydney Buses Network,700,00B5EF,FFFFFF,5,7,16904,36,90,1
 2444_901,2444,901,Holsworthy to Liverpool via Wattle Grove,Sydney Buses Network,700,00B5EF,FFFFFF,5,8,47948,31,91,1
 2444_902,2444,902,Holsworthy to Liverpool via Moorebank,Sydney Buses Network,700,00B5EF,FFFFFF,5,7,47767,38,95,1
