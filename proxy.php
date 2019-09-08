@@ -27,11 +27,19 @@ $data = curl_exec($ch);
 curl_close($ch);  
 
 use transit_realtime\FeedMessage;
+use \DrSlump\Protobuf\Codec;
 
 $feed = new FeedMessage();
 $feed->parse($data);
 
-var_dump($feed);
+
+$codec = new Codec\PhpArray();
+//$codec = new Codec\Json();
+//$codec = new Codec\Xml();
+//$codec = new Codec\TextFormat();
+
+print_r($feed->serialize($codec));
+
 die();
 foreach ($feed->getEntityList() as $entity) {
   
