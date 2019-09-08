@@ -1,5 +1,5 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,rating,frequency,ridership,completion_time,ontime_rate,bunching
-2450_279,2452,54,WoyWoy to Pearl Beach & Patonga via Umina Beach (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,4,48496,41,84,2
+2450_279,2452,54,WoyWoy to Pearl Beach & Patonga via Umina Beach (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,1,2,48496,67,52,22
 2444_902X,2444,902X,Sandy Point to Holsworthy via Voyager Point,Sydney Buses Network,700,00B5EF,FFFFFF,5,8,47948,34,94,2
 2452_34,2452,63,Gosford to Saratoga & Davistown via Green Pt & Erina Fair (Loop Service),Central Coast Buses Network,700,00B5EF,FFFFFF,5,7,47767,50,75,9
 2444_909,2444,909,Bankstown to Parramatta via Birrong & Auburn,Sydney Buses Network,700,00B5EF,FFFFFF,2,5,47555,36,91,4
