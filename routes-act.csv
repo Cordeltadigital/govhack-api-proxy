@@ -1,4 +1,4 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,rating ,frequency ,ridership ,completion_time ,ontime_rate ,bunching
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,rating,frequency,ridership,completion_time,ontime_rate,bunching
 1,,1,1,,,,,5,10,80907,24,99,1
 902,,902,902,,,,,2,6,30862,48,62,10
 164,,164,164,,,,,2,4,30780,57,73,6

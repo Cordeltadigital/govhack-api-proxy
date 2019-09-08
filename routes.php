@@ -31,7 +31,6 @@ if(strtolower($state) === 'nsw'){
 }
 
 if(strtolower($state) === 'act'){
-  
   $file = dirname(__FILE__)."/routes-act.csv";
   $file_data = array_slice(file($file), 0, $batch_size + 1);
 
