@@ -5,7 +5,7 @@ header("Access-Control-Allow-Headers: Content-Type, origin");
 header('Content-Type: application/json');
 require_once dirname(__FILE__).'/utils.php';
 
-$batch_size = 40;
+$batch_size = 100;
 
 $state = $_GET['state'] ?? 'NSW';
 $routes = '';
