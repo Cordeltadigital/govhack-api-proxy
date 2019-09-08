@@ -55,17 +55,17 @@
     },
     {
         "name": "google/gtfs-realtime-bindings",
-        "version": "0.0.2",
-        "version_normalized": "0.0.2.0",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
         "source": {
             "type": "git",
             "url": "https://github.com/google/gtfs-realtime-bindings-php.git",
-            "reference": "6628388768bcc847c40d869f7cbcfc59bb14fe2c"
+            "reference": "cef97e8507ac31f4fd880d18f02277afb5c61adf"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/google/gtfs-realtime-bindings-php/zipball/6628388768bcc847c40d869f7cbcfc59bb14fe2c",
-            "reference": "6628388768bcc847c40d869f7cbcfc59bb14fe2c",
+            "url": "https://api.github.com/repos/google/gtfs-realtime-bindings-php/zipball/cef97e8507ac31f4fd880d18f02277afb5c61adf",
+            "reference": "cef97e8507ac31f4fd880d18f02277afb5c61adf",
             "shasum": ""
         },
         "require": {
@@ -75,9 +75,9 @@
         "require-dev": {
             "phpunit/phpunit": "3.7.*"
         },
-        "time": "2015-02-27T05:57:56+00:00",
+        "time": "2019-03-03T22:06:55+00:00",
         "type": "library",
-        "installation-source": "dist",
+        "installation-source": "source",
         "autoload": {
             "classmap": [
                 "src/"
