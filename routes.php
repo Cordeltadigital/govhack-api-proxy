@@ -24,11 +24,13 @@ if($state === 'NSW'){
   array_walk($csv, function(&$route) use ($csv) {
     $route['rating'] = rand(1, 5);
   });
-  
+  var_dump($csv);
   $csv = array_filter($csv, function(&$route) use ($csv){
     return $route['route_desc'] !== 'School Buses';
   });
-  $routes = json_encode([$csv]);
+  var_dump($csv);
+  die();
+  $routes = json_encode($csv);
 }
 
 if($state === 'ACT'){
