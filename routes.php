@@ -28,7 +28,7 @@ if($state === 'NSW'){
   $csv = array_filter($csv, function(&$route) use ($csv){
     return $route['route_desc'] !== 'School Buses';
   });
-  $routes = json_encode($csv);
+  $routes = json_encode([$csv]);
 }
 
 if($state === 'ACT'){
