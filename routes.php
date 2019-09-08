@@ -42,7 +42,6 @@ if(strtolower($state) === 'act'){
 
 
   array_walk($csv, function(&$route) use ($csv) {
-    $route['rating'] = rand(1, 5);
     $route['route_short_name'] = str_pad($route['route_short_name'], 3, "0", STR_PAD_LEFT);
   });
   $routes = json_encode($csv);
