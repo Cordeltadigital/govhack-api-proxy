@@ -28,7 +28,7 @@ if($state === 'NSW'){
     }
   }
 
-  $routes = json_encode($results);
+  $routes = json_encode(array_values($results));
 }
 
 if($state === 'ACT'){
