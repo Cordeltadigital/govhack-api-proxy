@@ -8,8 +8,6 @@ require_once dirname(__FILE__).'/utils.php';
 $state = $_GET['state'] ?? 'NSW';
 
 $query_route_id = $_GET['id'] ?? '';
-echo $query_route_id;
-
 
 if(strtolower($state) === 'nsw'){
 
