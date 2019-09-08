@@ -20,17 +20,15 @@ if($state === 'NSW'){
   });
   array_shift($csv); # remove column header
 
-
-  array_walk($csv, function(&$route) use ($csv) {
+  $results = [];
+  foreach($csv as $key => $route) {
     $route['rating'] = rand(1, 5);
-  });
-  var_dump($csv);
-  $csv = array_filter($csv, function(&$route) use ($csv){
-    return $route['route_desc'] !== 'School Buses';
-  });
-  var_dump($csv);
-  die();
-  $routes = json_encode($csv);
+    if($route['route_desc'] !== 'School Buses'){
+      $results[$key] = $route;
+    }
+  }
+
+  $routes = json_encode($results);
 }
 
 if($state === 'ACT'){
