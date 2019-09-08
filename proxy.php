@@ -30,11 +30,13 @@ use transit_realtime\FeedMessage;
 
 $feed = new FeedMessage();
 $feed->parse($data);
-print_r($feed->toArray());
-// foreach ($feed->getEntityList() as $entity) {
+
+var_dump($feed);
+die();
+foreach ($feed->getEntityList() as $entity) {
   
-//   echo '<pre>';
-//   print_r($entity);
-//   print_r($entity->toArray());
-//   echo '</pre>';
-// }
+  echo '<pre>';
+  print_r($entity);
+  print_r($entity->toArray());
+  echo '</pre>';
+}
