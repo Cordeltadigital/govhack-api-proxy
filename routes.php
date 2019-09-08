@@ -9,7 +9,7 @@ $batch_size = 40;
 
 $state = $_GET['state'] ?? 'NSW';
 $routes = '';
-if($state === 'NSW'){
+if(strtolower($state) === 'nsw'){
 
   $file = dirname(__FILE__)."/routes-nsw.csv";
   $file_data = array_slice(file($file), 0, $batch_size +1);
@@ -30,7 +30,7 @@ if($state === 'NSW'){
   $routes = json_encode(array_values($results));
 }
 
-if($state === 'ACT'){
+if(strtolower($state) === 'act'){
   
   $file = dirname(__FILE__)."/routes-act.csv";
   $file_data = array_slice(file($file), 0, $batch_size + 1);
